@@ -1,0 +1,45 @@
+.form-select {
+	width: 20%;
+	margin: 15px;
+}
+
+.container {
+	max-width: 2000px;
+}
+
+.row {
+	width: 1800px;
+}
+
+input[type = "checkbox"]{
+	display: inline-block;
+	transform: scale(2);
+}
+label{
+	display: inline-block;
+	margin: 0 10px;
+}
+
+textarea.form-control {
+    height: 350px;
+}
+
+.admin_header {
+	display: block;
+}
+
+.admin_header select {
+	display: block;
+}
+.admin_out {
+	float: right;
+	display: inline;
+	margin: 0 30px;
+}
+
+
+
+
+
+
+
